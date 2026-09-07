@@ -10,7 +10,6 @@ The project will be updated as I learn new concepts in HTML, CSS, JavaScript,
 Git, GitHub, and web accessibility.
 
 ## Current Files
-
 - `index.html` - The starter webpage for the project.
 - `README.md` - Documentation describing the project.
 
